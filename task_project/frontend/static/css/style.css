@@ -1,0 +1,11 @@
+/* frontend/static/css/style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+form input, form select {
+    margin-bottom: 10px;
+    display: block;
+}
